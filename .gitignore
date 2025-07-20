@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.env
+.env
+venv/
+*.db
+*.faiss
+
+# Node.js
+node_modules/
+dist/
+.build/
+.env
+.history
+
+# OS
+.DS_Store
+Thumbs.db

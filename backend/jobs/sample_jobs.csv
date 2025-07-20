@@ -1,0 +1,6 @@
+job_id,title,company,location,description
+1,Data Scientist,OpenAI,Remote,"Looking for experience in Python, ML, NLP, and cloud platforms like AWS."
+2,ML Engineer,Google,Bangalore,"Strong Python, TensorFlow, NLP, and MLOps required. Experience in deploying models at scale."
+3,Data Analyst,Amazon,Hyderabad,"SQL, dashboards, Excel, BI tools, and basic Python."
+4,Cloud Engineer,Microsoft,Remote,"Cloud DevOps with AWS, Docker, CI/CD pipelines, Terraform, and Kubernetes."
+5,AI Researcher,NVIDIA,Bangalore,"Deep Learning, Transformers, PyTorch, and strong research skills."
